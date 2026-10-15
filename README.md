@@ -7,3 +7,6 @@ Montaje en vídeo del episodio (80:49, 1280×720, audio original), ilustrado con
 ## Créditos de imagen
 - Clips de vídeo: [Pexels](https://www.pexels.com/license/) y [Pixabay](https://pixabay.com/service/license-summary/), uso libre según sus licencias.
 - Imagen de Nossa Senhora Aparecida: Wikimedia Commons.
+
+## Cómo verla
+GitHub no admite un único archivo de 874 MB, así que la película está dividida en 13 partes de unos 6,5 minutos, en la carpeta [`pelicula/`](pelicula/). Cada parte se reproduce por separado. Para tenerla entera, importa las 13 en orden en cualquier editor de vídeo y exporta; las partes encajan sin saltos.
