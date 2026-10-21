@@ -21,4 +21,4 @@ Montaje de 43:41 (1280×720, audio original) en 7 partes, en la carpeta [`episod
 
 ## Episodio 146 · Versión animada
 
-Una segunda versión del mismo episodio, sin vídeos de stock: todo está dibujado y animado con código (Python + cairo) en un único estilo de trazo, con 44 escenas que acompañan la conversación de forma continua. Está en la carpeta [`episodio146_animado/`](episodio146_animado/), en 2 partes de unos 22 minutos. El código que genera las animaciones está en [`episodio146_animado/codigo/`](episodio146_animado/codigo/).
+Una segunda versión del mismo episodio, sin vídeos de stock: todo está dibujado y animado con código (Python + cairo) en un único estilo de trazo, con 40 escenas que acompañan la conversación de forma continua. Está en la carpeta [`episodio146_animado/`](episodio146_animado/), en 2 partes de unos 22 minutos. El código que genera las animaciones está en [`episodio146_animado/codigo/`](episodio146_animado/codigo/).
